@@ -1,5 +1,4 @@
 ### pynet homework
-Python stinks.
 
 ###### Classes
 1. Completed `2016-10-15`
