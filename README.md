@@ -2,6 +2,7 @@
 
 ###### Classes
 1. Completed `2016-10-15`
+2. Completed `2016-10-24`
 
 ###### Issues 
 - Python uses whitespace (yuck)
@@ -21,3 +22,4 @@ $ python2 -c 'print(3/2)'
 1
 ```
 - It seems the preferred style is_using_underscores. I think that requires too much typing and I much prefer camelCase. Fortunately, this isn't enforced.
+- Can't do `i++` :(
