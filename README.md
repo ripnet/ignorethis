@@ -3,6 +3,7 @@
 ###### Classes
 1. Completed `2016-10-15`
 2. Completed `2016-10-24`
+3. Completed `2016-10-31`
 
 ###### Issues 
 - Python uses whitespace (yuck)
