@@ -4,6 +4,7 @@
 1. Completed `2016-10-15`
 2. Completed `2016-10-24`
 3. Completed `2016-10-31`
+4. Completed `2016-11-07`
 
 ###### Issues 
 - Python uses whitespace (yuck)
